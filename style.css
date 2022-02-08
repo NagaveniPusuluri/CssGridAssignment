@@ -39,15 +39,15 @@ body{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.02px;
-    padding: 0.8rem;
+    padding: 0.8rem 0.8rem;
     color: white;
 }
 .designation{
     font-size: 1rem;
     text-align: center;
-    padding: 0.5rem;
+    padding-bottom: 0.5rem;
     color: turquoise;
-    text-transform:uppercase ;
+    text-transform:uppercase;
 }
 .description{
     font-size: 0.75em;
