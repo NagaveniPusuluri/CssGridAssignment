@@ -39,7 +39,7 @@ body{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.02px;
-    padding: 0.8rem 0.8rem;
+    padding: 0.8rem;
     color: white;
 }
 .designation{
@@ -99,7 +99,7 @@ body{
     font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
-    padding: 1rem 0.5rem;
+    padding:0.5rem 1rem;
 }
 .skill-name{
     color: white;
