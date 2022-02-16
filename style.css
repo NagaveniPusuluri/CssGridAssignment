@@ -38,16 +38,16 @@ body{
     font-weight: 700;
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: 0.02px;
     padding: 0.8rem;
+    letter-spacing: 0.02px;
     color: white;
 }
 .designation{
     font-size: 1rem;
     text-align: center;
+    text-transform:uppercase;
     padding-bottom: 0.5rem;
     color: turquoise;
-    text-transform:uppercase;
 }
 .description{
     font-size: 0.75em;
